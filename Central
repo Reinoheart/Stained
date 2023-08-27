@@ -34,7 +34,7 @@
 
 /* TITLE BAR */
 .titleBar-1it3bQ .wordmark-2u86JB::after {
-    font-family: inter;
+    font-family: Inter;
     letter-spacing: 1px;
     content: var(--window-name);
     position: absolute;
@@ -170,9 +170,10 @@
     background: var(--background-url) !important;
     background-size: cover !important;
 }
-/* Font Family */
-    --font-primary: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-display: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/* FONT FAMILY */
+    font-primary: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-display: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .theme-dark .scroller-WSmht3,
