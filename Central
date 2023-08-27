@@ -68,8 +68,8 @@
 }
 
 /* FONT FAMILY */
-    font-primary: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-display: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-primary: Manrope, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-display: Manrope, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* CREATE CHANNEL */
