@@ -34,7 +34,7 @@
 
 /* TITLE BAR */
 .titleBar-1it3bQ .wordmark-2u86JB::after {
-    font-family: cursive;
+    font-family: inter;
     letter-spacing: 1px;
     content: var(--window-name);
     position: absolute;
